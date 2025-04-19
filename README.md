@@ -14,14 +14,5 @@ This is a frontend project developed using the **Google Gemini** design principl
 - **CSS**: For styling and ensuring the page is responsive and visually appealing.
 - **Google Gemini Design Concept**: Incorporated throughout the project to ensure a modern and efficient frontend experience.
 
-## Developer
-This project is developed by **Adill Ijaz**. If you found this project helpful, feel free to give it a star, follow me for more updates, and check out my other repositories!
-
-GitHub Profile: [Adill Ijaz](https://github.com/Adil-Ijaz7)
-
-
 ## Contribution
 Feel free to fork this repository, submit issues, and contribute to the project. Contributions, suggestions, and improvements are always welcome!
-
-
-Stay connected, and thanks for visiting my project! ✨
